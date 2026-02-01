@@ -36,7 +36,7 @@
 
 
 > 1: **ғᴏʀᴋ ʀᴇᴘᴏsɪᴛᴏʀʏ**
-
+<h1 align="center">
 _Click the button below to fork OBSIDIAN MD repository to your GitHub account_
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tap+fork+button+Bellow+To+Fork;OBSIDIAN+MD+REPO+On+Github)](https://git.io/typing-svg)
 <a href="https://github.com/TheStian/obsidian-md/fork">
