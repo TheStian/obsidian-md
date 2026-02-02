@@ -90,7 +90,7 @@ _Click the button below to fork OBSIDIAN MD repository to your GitHub account_
   </a>
 <br>
 <div align="left">
-  <a href="https://t.me/TheeStian">
+  <a href="https://t.me/TheStian00">
     <img src="https://img.shields.io/badge/Join%20telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=darkblue" alt="ᴊᴏɪɴ ᴛᴇʟᴇɢʀᴀᴍ"/>
   </a>
 </div>
