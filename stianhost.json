@@ -1,6 +1,6 @@
 {
-  "name": "OBSIDIAN-MD",
-  "description": "🔥 OBSIDIAN-MD WhatsApp Bot — Feature-rich WhatsApp bot powered by Baileys",
+  "name": "obsidian-md",
+  "description": "🔥 obsidian-md WhatsApp Bot — Feature-rich WhatsApp bot powered by Baileys",
   "platform": "whatsapp",
   "runtime": "node",
   "version": "18",
