@@ -1,0 +1,56 @@
+{
+  "name": "OBSIDIAN-MD",
+  "description": "🔥 OBSIDIAN-MD WhatsApp Bot — Feature-rich WhatsApp bot powered by Baileys",
+  "platform": "whatsapp",
+  "runtime": "node",
+  "version": "18",
+  "main": "index.js",
+  "start": "node index.js",
+  "install": "npm install",
+  "memory_limit": "150MB",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your session ID. Format: stian~xxxxxxxx",
+      "required": true,
+      "type": "string"
+    },
+    "OWNER_NAME": {
+      "description": "Your name — displayed in the bot owner info",
+      "required": true,
+      "default": "The Stian",
+      "type": "string"
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number with country code (e.g. 2547xxxxxxxx)",
+      "required": true,
+      "type": "string"
+    },
+    "MODE": {
+      "description": "Bot mode — public/private",
+      "default": "public",
+      "required": false,
+      "type": "string"
+    },
+    "TIMEZONE": {
+      "description": "Your timezone. e.g. Africa/Nairobi, America/New_York",
+      "default": "Africa/Nairobi",
+      "required": false,
+      "type": "string"
+    },
+    "PAIRING_NUMBER": {
+      "description": "Your WhatsApp number (e.g. 2547xxxxxxxx)",
+      "required": false,
+      "type": "string"
+    },
+    "MONGO_URL": {
+      "description": "MongoDB URL (Optional)",
+      "required": false,
+      "type": "string"
+    },
+    "REMOVEBG_KEY": {
+      "description": "API key for remove.bg (Optional)",
+      "required": false,
+      "type": "string"
+    }
+  }
+}
