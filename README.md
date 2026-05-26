@@ -1,4 +1,3 @@
-# Project Under Maintenance
+# Deploy Full Bot here for free:
 
-> Being Updated
-> Up in a few
+https://host.stiantech.me
